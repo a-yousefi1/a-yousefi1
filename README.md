@@ -11,9 +11,9 @@
 
 <h3 align="left">My biography:</h3>
 <p align="left">
-  Hey there, fellow creators! 👋 I'm all about harnessing creativity, generating innovative ideas, and unleashing my passion for sports. But above all, coding is my ultimate jam! 🤓 Currently diving deep into the captivating realms of JavaScript and mastering the awesome power of the React framework. 💻
+  **Hey there, fellow creators! 👋 I'm all about harnessing creativity, generating innovative ideas, and unleashing my passion for sports. But above all, coding is my ultimate jam! 🤓 Currently diving deep into the captivating realms of JavaScript and mastering the awesome power of the React framework. 💻
 Oh, did I mention I'm a multilingual? 🌍 Fluent in Persian, English, Turkish, and German – language barriers don't stand a chance around me! 🗣️
-Join me on this journey of boundless creativity, coding adventures, and mutual inspiration. Let's connect, collaborate, and make the digital world a more ingenious place together! 🌟
+Join me on this journey of boundless creativity, coding adventures, and mutual inspiration. Let's connect, collaborate, and make the digital world a more ingenious place together! 🌟**
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
