@@ -10,11 +10,11 @@
 - ⚡ Fun fact **JavaScript was created by Brendan Eich in just 10 days in May 1995, and was originally named "Mocha" before being renamed "LiveScript" and eventually "JavaScript".**
 
 <h3 align="left">My biography:</h3>
-<p align="left">
+
   **Hey there, fellow creators! 👋 I'm all about harnessing creativity, generating innovative ideas, and unleashing my passion for sports. But above all, coding is my ultimate jam! 🤓 Currently diving deep into the captivating realms of JavaScript and mastering the awesome power of the React framework. 💻
 Oh, did I mention I'm a multilingual? 🌍 Fluent in Persian, English, Turkish, and German – language barriers don't stand a chance around me! 🗣️
 Join me on this journey of boundless creativity, coding adventures, and mutual inspiration. Let's connect, collaborate, and make the digital world a more ingenious place together! 🌟**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/ayousefi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayousefi1" height="30" width="40" /></a>
